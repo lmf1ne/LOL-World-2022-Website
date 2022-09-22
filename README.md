@@ -1,4 +1,4 @@
-# LOL-World-2022-Website
+# LOL-World-2022-Website (Ongoing Project)
 League of Legend Season 12 World Championship Teams
 ![homepage](https://user-images.githubusercontent.com/93447547/191666920-3a50f2b6-6fee-4cca-bff8-cb55a5edff10.jpg)
 ![footer](https://user-images.githubusercontent.com/93447547/191667479-620e5641-4fbb-4f11-a764-cbc7eb86d8ca.jpg)
