@@ -1,0 +1,41 @@
+.brand .container {
+    background-color: #141414;
+    color: #fff;
+    min-height: 100vh;
+    padding: 0 6em;
+
+}
+
+.brand .container .grid-layout {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    row-gap: 3em;
+    margin: 6em auto 0 auto;
+    max-width: 1120px;
+}
+
+.brand .container .grid-layout .grid-item {
+    display: flex;
+    align-items: center;
+}
+
+.brand .container .grid-layout .grid-item img {
+    width: 200px;
+    object-fit: contain;
+}
+
+.brand .container .grid-layout .grid-item .product-right-col {
+    margin: 0 6em;
+}
+
+.brand .container .grid-layout .grid-item .product-right-col > * + * {
+    margin-top: 1em;
+}
+
+.brand .container .grid-layout .grid-item .product-right-col a {
+    text-decoration: none;
+    color: #fff;
+    padding: 0.25em 0.75em;
+    background-color: #f77602;
+    border-radius: 8px;
+}
